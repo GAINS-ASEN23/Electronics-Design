@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=Main_Sheet.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Main_Sheet.SchDoc|Designator=SDI-1521L - Accelerometer|SchDesignator=SDI-1521L - Accelerometer|FileName=Accelerometer.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Accelerometer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main_Sheet.SchDoc|Designator=STM32_Thing_Plus|SchDesignator=STM32_Thing_Plus|FileName=Microcontroller.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Microcontroller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
