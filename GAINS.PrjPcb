@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDMOSQUK
 
 [Document9]
-DocumentPath=PCBLIB\flashFootprint.PcbLib
+DocumentPath=PCBLIB\flashFootprintV2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SIROOYUO
+DocumentUniqueId=JFPOFWVM
 
 [Configuration1]
 Name=Sources
