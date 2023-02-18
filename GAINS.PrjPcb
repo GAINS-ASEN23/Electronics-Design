@@ -202,7 +202,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JFPOFWVM
 
 [Document10]
-DocumentPath=GAINS_PCB.PcbDoc
+DocumentPath=PCBLIB\TEST_POINT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -216,7 +216,28 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WFGUXUWN
+DocumentUniqueId=DUDJTIYY
+
+[Document11]
+DocumentPath=PCBLIB\GAINS_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WSRUTIEB
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GAINS\Design Rule Check - GAINS_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
